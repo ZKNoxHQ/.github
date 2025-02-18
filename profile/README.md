@@ -6,7 +6,7 @@
  
 ## Advancing Hardware Security & Cryptography.
 
-Today, we’re excited to introduce ZKNOX, a new venture founded by three experts in hardware security and cryptography (ECC, ZK, MPC). With deep expertise in securing critical systems, our mission is to advance secure hardware, cryptographic protocols, and blockchain-integrated security solutions—with a strong alignment to Ethereum and decentralized technologies.
+Today, we’re excited to introduce ZKNOX, a new venture founded by three experts in hardware security and cryptography (ECC, ZK, MPC). With deep expertise in securing critical systems, our mission is to advance secure hardware, cryptographic protocols, and blockchain-integrated security solutions—with a strong alignment to Ethereum, defensive and decentralized technologies.
 
 We’re bringing deep expertise and innovation to every challenge on the whole security chain, from user end (be it secure enclaves, hardware wallets), back end (TEE, HSMs) or on-chain (smart contracts).
 
@@ -23,6 +23,6 @@ Realizations include several [publications](https://dblp.org/pid/218/7096.html) 
  
 ## Reach us
 
-🔐 Security on the whole chain.
+🔐 Practical security on the whole chain.
 
 [Website](https://www.zknox.com) | [Twitter](https://x.com/zknoxhq) | [Contact Info](mailto:gm@zknox.com)
