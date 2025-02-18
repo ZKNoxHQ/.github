@@ -25,4 +25,4 @@ Realizations include several [publications](https://dblp.org/pid/218/7096.html) 
 
 🔐 Security on the whole chain.
 
-[Website](https://www.zknox.com) | [Twitter](https://x.com/zknoxhq) | [Contact Info]
+[Website](https://www.zknox.com) | [Twitter](https://x.com/zknoxhq) | [Contact Info](mailto:gm@zknox.com)
