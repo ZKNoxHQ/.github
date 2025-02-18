@@ -1,4 +1,4 @@
-![alt text](https://github.com/ZKNoxHQ/.github/zknoxlogo.jpeg)
+![alt text](https://github.com/ZKNoxHQ/.github/blob/main/zknoxlogo.jpeg)
 
 # Introducing ZKNOX
  
