@@ -62,8 +62,9 @@ Thomas Piellard  (Linea).
 
 #### White Hat
 
-- A supply chain attack on Keystone wallet
- 
+- A responsible disclosure of potential [supply chain attack](https://x.com/KeystoneWallet/status/1909214655270056143) on Keystone wallet
+ <img width="584" height="111" alt="image" src="https://github.com/user-attachments/assets/cd70f72d-2edf-4da7-a8e1-6514d9773bfb" />
+
 
 
  
