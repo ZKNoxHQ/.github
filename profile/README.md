@@ -59,6 +59,9 @@ Thomas Piellard  (Linea).
     * Trezor: https://github.com/trezor/trezor-firmware/pull/4945
     * Ledger: https://github.com/LedgerHQ/app-ethereum/pull/739
     * KeyStone: https://github.com/KeystoneHQ/keystone3-firmware/pull/1727
+- Hybrid Account (Post Quantum + classic) experimentations (ETHGLOBAL PRAGUE&CANNES):
+   * [PQKINGS](https://github.com/ZKNoxHQ/ZKipper): Hybrid Cryptography protection for your assets. Leveraging the new EIP-7702 standard with FALCON and ECDSA.
+   * [ZKIPPER](https://github.com/ZKNoxHQ/ZKipper): role based access control (RBAC) enforced by EIP-7702 Hybrid Account.
 
 #### White Hat
 
