@@ -56,9 +56,9 @@ Thomas Piellard  (Linea).
 #### Account abstraction
 
 - PRs for major hardware wallets 7702 integration:
-    * Trezor: 
-    * Ledger:
-    * KeyStone:
+    * Trezor: https://github.com/trezor/trezor-firmware/pull/4945
+    * Ledger: https://github.com/LedgerHQ/app-ethereum/pull/739
+    * KeyStone: https://github.com/KeystoneHQ/keystone3-firmware/pull/1727
 
 #### White Hat
 
