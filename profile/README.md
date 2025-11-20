@@ -30,7 +30,7 @@ Realizations include several [publications](https://dblp.org/pid/218/7096.html) 
 - Contribution to DILITHIUM (EIP-8051) and FALCON (EIP-8052) EIPs:
     * https://ethereum-magicians.org/t/eip-8051-ml-dsa-verification/25857
     * https://ethereum-magicians.org/t/eip-8052-precompile-for-falcon-support/25860
-- Solidity implementations of (EIP-8051) and FALCON (EIP-8052):
+- Solidity implementations of Dilithium (FIPS204/EIP-8051) and FALCON (FIPS206/EIP-8052):
     * https://github.com/ZKNoxHQ/ETHFALCON
     * https://github.com/ZKNoxHQ/ETHDILITHIUM
 - Hardware implementation of Dilithium (EIP_8051)
