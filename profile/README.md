@@ -53,6 +53,8 @@ Thomas Piellard  (Linea).
 - BABYFROST, a FROST implementation, compatible with circomlib eddsaposeidon
     * (WIP)
 
+Those are kept closed until an agreement to fund the "in production" version is found.
+
 #### Account abstraction
 
 - PRs for major hardware wallets 7702 integration:
