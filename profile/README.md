@@ -63,7 +63,8 @@ Those are kept closed until an agreement to fund the "in production" version is 
     * KeyStone: https://github.com/KeystoneHQ/keystone3-firmware/pull/1727
 - Hybrid Account (Post Quantum + classic) experimentations (ETHGLOBAL PRAGUE&CANNES):
    * [PQKINGS](https://github.com/ZKNoxHQ/ZKipper): Hybrid Cryptography protection for your assets. Leveraging the new EIP-7702 standard with FALCON and ECDSA.
-   * [ZKIPPER](https://github.com/ZKNoxHQ/ZKipper): role based access control (RBAC) enforced by EIP-7702 Hybrid Account.
+   * [ZKIPPER](https://github.com/ZKNoxHQ/ZKipper): role based access control (RBAC) enforced by EIP-7702 Hybrid Account.<img width="341" height="78" alt="image" src="https://github.com/user-attachments/assets/1614f460-0cd3-4900-95fd-16b8904dcf49" />
+
 
 #### White Hat
 
