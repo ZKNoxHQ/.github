@@ -66,7 +66,7 @@ Those are kept closed until an agreement to fund the "in production" version is 
    * [ZKIPPER](https://github.com/ZKNoxHQ/ZKipper): role based access control (RBAC) enforced by EIP-7702 Hybrid Account.
 
      <img width="341" height="78" alt="image" src="https://github.com/user-attachments/assets/1614f460-0cd3-4900-95fd-16b8904dcf49" />
-   * [FROSTGUN]([https://github.com/ZKNoxHQ/ZKipper](https://ethglobal.com/showcase/frostgun-vmw1h)): FROST Hardware Implementation - Baby Jubjub EdDSA
+   * [FROSTGUN](https://github.com/ZKNoxHQ/ZKipper](https://ethglobal.com/showcase/frostgun-vmw1h): FROST Hardware Implementation - Baby Jubjub EdDSA
   
      <img width="266" height="82" alt="image" src="https://github.com/user-attachments/assets/26317068-a67d-4aa5-85e1-a0d3ff682463" />
 
