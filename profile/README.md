@@ -1,4 +1,5 @@
-![alt text](https://github.com/ZKNoxHQ/.github/blob/main/zknoxlogo.jpeg)
+<img width="1049" height="341" alt="zknox-logo" src="https://github.com/user-attachments/assets/ecb8615f-d85e-4b90-89ea-c6da1b7bca7c" />
+
 
 # Introducing ZKNOX
  
