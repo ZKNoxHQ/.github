@@ -25,6 +25,20 @@ Realizations include several [publications](https://dblp.org/pid/218/7096.html) 
 
 ## Realizations
 
+### 2026
+
+
+#### Ethereum Post Quantum Transition: 
+- Integration of prior work into Kohaku pq-account
+- Investigating around the NVMpy precompile
+- Harware implementation of FALCON (EIP_8052)
+
+
+#### Privacy: 
+- Integration of a Hardware ZK primitives into Anon wallet
+
+
+
 ### 2025
 
 #### Ethereum Post Quantum Transition: 
